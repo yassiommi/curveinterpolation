@@ -32,8 +32,12 @@ This Python application provides a graphical user interface (GUI) to draw points
 
 Screenshots of some drawing done with the application is included in the `screenshots` directory.
 - Bezier:
+
+ 
 ![test_bezier](https://github.com/yassiommi/curveinterpolation/assets/46069118/1d6c9bd7-c319-45f9-9f35-e1213a99ae60)
 - Catmull-Rom:
+
+
 ![test-catmull](https://github.com/yassiommi/curveinterpolation/assets/46069118/90da24d1-cfb0-42ab-81ba-2b98bc5ebec2)
 
 
